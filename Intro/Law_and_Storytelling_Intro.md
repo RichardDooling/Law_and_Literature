@@ -108,13 +108,13 @@ The patient's story is that she lost weight
 because she is training for a marathon,
 but she has no muscle tone. 
 Is she hiding an eating disorder?
-Is the Johnny really just a clumsy kid who keeps falling down the stairs,
+Is Johnny really just a clumsy kid who keeps falling down the stairs,
 as Mom says, 
 or is Mom protecting an abusive spouse and parent. 
 The doctor asks Dad, "Do you drink alcohol?" 
 When Dad says, "Only with meals," 
-is that good enough, or does the doctor 
-pursue the story to learn that drinking with meals means breakfast, lunch, and dinner, and usually entails a bottle or two of wine.
+is that good enough? Or does the doctor 
+pursue the story to learn that drinking with meals means breakfast, lunch, and dinner, and usually entails a bottle or two of wine at each repast.
 
 After taking a careful history and physical exam, the physician writes the patient's story or history, proposes tests to rule out diagnoses, and then diagnoses the patient's disorder, if possible, and prescribes a course of treatment. Now the patient's "story" is easy to share with another specialist, who must be called in to consult about the patient's case. 
 
@@ -128,7 +128,7 @@ You may have seen the great [Oliver Sacks](https://en.wikipedia.org/wiki/Oliver_
 Sacks, recently diagnosed with terminal cancer, 
 has been called "the poet laureate of medicine" 
 because of his neurological tales including 
-[*Awakenings*](http://www.oliversacks.com/books-by-oliver-sacks/awakenings/)(made into a major motion picture starring the late Robin Williams), or the *New York Times* bestseller [*The Man Who Mistook His Wife For A Hat*](http://www.oliversacks.com/books-by-oliver-sacks/man-mistook-wife-hat/) and many other great medical tales. 
+[*Awakenings*](http://www.oliversacks.com/books-by-oliver-sacks/awakenings/) (made into a major motion picture starring the late Robin Williams), or the *New York Times* bestseller [*The Man Who Mistook His Wife For A Hat*](http://www.oliversacks.com/books-by-oliver-sacks/man-mistook-wife-hat/) and many other great medical tales. 
 Sacks describes his early attraction to medical stories:
 
 > Almost unconsciously, I became a storyteller 
@@ -200,7 +200,7 @@ when representing clients by writing and telling stories.
 I might make the argument that every case is a story, 
 and every story is a case 
 (protagonist, antagonist, being compared to plaintiff and defendant, or vice versa). 
-Or we might ask: how does The Declaration of Independent WORK as a piece of literature? 
+Or we might ask: how does The Declaration of Independence WORK as a piece of literature? 
 What rhetorical gimmicks does it employ to make its case? 
 What literary techniques does it use to persuade, 
 not just Tories and colonists, but US?
@@ -244,10 +244,9 @@ not because they know the answers and would like to share them with their reader
 No, usually the author has a question or a problem and attempts to *solve* the problem by dramatizing it and writing it out. 
 Fiction and nonfiction both require research and mastery of details. 
 "If you can't explain it simply, you don't understand it well enough," 
-said Einstein, and writing a book or telling as story is your attempt
-at telling the story.
+said Einstein, and writing a book, or telling a story, or even teaching a class may be thought of as an attempt to solve a problem: How to learn about stories and storytelling and apply those skills to the practice of law? 
 
-In this course we are intensely interested in how a story grabs you and moves you. 
+In this seminar we are intensely interested in how a story grabs you and moves you. 
 
 We don't want to be scholars and kill storytelling by analyzing it. 
 E.B. White, the author of *Charlotte's Web* and many other tales, said:
