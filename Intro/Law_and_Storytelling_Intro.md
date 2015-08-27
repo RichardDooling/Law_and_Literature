@@ -26,7 +26,7 @@ Each affected villager gets a chance to tell her side of the story,
 and the "palaver" (as it is called in Sierra Leone, West Africa, where I stayed for some months in the early 1980s) 
 often becomes a village drama, 
 with actors, witnesses, and affected parties and their relatives, 
-each "take the floor" and do their best to move and persuade the crowd.
+who each "take the floor" and do their best to move and persuade the crowd.
 
 Afterwards, the village elders "hang heads" or deliberate together, 
 consider the stories of the "parties," 
@@ -62,9 +62,9 @@ an adjective of uncertain dimensions
 even before Pilot asked Christ: "What is truth?" 
 
 A lawyer must stick to the facts and the law,
-but that doesn't mean that the story can't be polished and well told, 
-that it can't be interesting and employ literary devices, 
-like rhyme, rhythm, plot, character, theme, conflict, and allusions to other timeless stories, legends and myths. 
+but that doesn't mean that the story can't be polished and well told. 
+It doesn't mean that the story can't be interesting and employ literary devices, 
+like rhyme, rhythm, plot, character, theme, conflict, structural narrative and allusions to other timeless stories, legends and myths. 
 
 Go to Google Scholar and [search the case law for "Scylla and Charybdis"][scylla]
 and sample the over 1,000 cases, most federal, which contain the expression.
@@ -110,7 +110,7 @@ but she has no muscle tone.
 Is she hiding an eating disorder?
 Is Johnny really just a clumsy kid who keeps falling down the stairs,
 as Mom says, 
-or is Mom protecting an abusive spouse and parent. 
+or is Mom protecting an abusive spouse and parent? 
 The doctor asks Dad, "Do you drink alcohol?" 
 When Dad says, "Only with meals," 
 is that good enough? Or does the doctor 
@@ -149,7 +149,7 @@ and we'll consider them as candidates for our reading list.
 I began teaching at UNL 
 after Professor Lawson invited me to come speak about my novel [*Brain Storm*](http://www.goodreads.com/book/show/15801.Brain_Storm), 
 which was assigned reading at the time in his version of the Law and Literature course; 
-we may read if you so desire. 
+we may read it if you so desire. 
 I have another novel which could work: 
 [*White Man's Grave*](http://www.goodreads.com/book/show/15788.White_Man_s_Grave). 
 It was nominated for the National Book Award long ago. 
