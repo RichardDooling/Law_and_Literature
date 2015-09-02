@@ -25,6 +25,8 @@ But a paragraph so well-wrought that it begs to be read aloud:
 
 > *The Constitution of The United States*, 1787
 
+### Reverse Engineering The Preamble
+
 How does the *Preamble* work? This is a question of interpretation. 
 Readers, lawyers, literary critics, they all interpret prose.
 So be a reader and critique the *Preamble*. 
@@ -78,7 +80,7 @@ How do they function in the Preamble?
 What is the overall tone or mood of the preamble? 
 How does it achieve this tone?
 
-### Reverse Engineering
+#### The Preamble Revisited
 
 When you have taken apart the *Preamble* 
 and considered these questions. Reassemble and consider again the questions above. 
@@ -91,6 +93,32 @@ Our interpretive investigation of the *Preamble* is an exercise in the
 Law *as* Literature---the study of the literary qualities of a legal text.
 
 ## The Declaration of Independence
+
+This is our first  exercise in 
+[SLOW READING](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). Please read [the Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html). 
+
+That's right. All the way through. How did that feel?
+
+Now let's take a closer look. Click on the following link and listen to these excellent actors READ the *Declaration* it to you:
+
+https://www.youtube.com/watch?v=ETroXvRFoKY
+
+Probably you want to see them do it, but THEN, 
+please close your eyes and play it again. 
+LISTEN TO THE WORDS. How and why do they work?
+
+Is this a STORY? Who is the hero? 
+Who is the audience? 
+Does the storyteller use any of the techniques 
+that we learned about in the Poetics book?
+
+Does the story have three acts?
+
+What is it about the language that makes it seem lofty and sacred? 
+Is it only because we know it's OUR NATION'S Declaration of Independence, 
+or is it something about the rhythm, diction, poetry, movement of the verses that makes it so effective?
+
+### Some Inquiries
 
 * In Congress, July 4, 1776
 * The Unanimous Declaration of the Thirteen United States of America
@@ -323,10 +351,14 @@ our sacred Honor.
 
 JOHN HANCOCK [(and many others!)](http://www.ushistory.org/Declaration/Signers/index.htm)
 
+Listen again, if it helps:
+
+https://www.youtube.com/watch?v=ETroXvRFoKY
 
 ##### Totally Optional Reading
 
 * Many of the questions above are excerpted from [When Words Lose Their Meaning](http://press.uchicago.edu/ucp/books/book/chicago/W/bo5967304.html), by [James Boyd White](https://en.wikipedia.org/wiki/James_Boyd_White), as edited and supplemented by Professor Craig Lawson and me.
+* [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book HelpsRead Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book Helps*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). I took the speed reading test. I came out "average" but I also missed a question.  I also learned a new term for what I do when I read GOOD stuff. I sub vocalize.
 
 <!-- BEGIN COMMENT -->
 
