@@ -118,7 +118,7 @@ What is it about the language that makes it seem lofty and sacred?
 Is it only because we know it's OUR NATION'S Declaration of Independence, 
 or is it something about the rhythm, diction, poetry, movement of the verses that makes it so effective?
 
-### Some Inquiries
+### Some *Declaration* Inquiries
 
 * In Congress, July 4, 1776
 * The Unanimous Declaration of the Thirteen United States of America
@@ -351,7 +351,18 @@ our sacred Honor.
 
 JOHN HANCOCK [(and many others!)](http://www.ushistory.org/Declaration/Signers/index.htm)
 
-Listen again, if it helps:
+#### The *Declaration's* Moving Parts
+
+Are you able to identify the four parts of the *Declaration*?
+
+* The Preamble
+* The Indictment
+* The Denunciation
+* The Conclusion
+
+No summary can do justice to the *Declaration*. 
+It should be read in whole. 
+Or better yet, listen to it:
 
 https://www.youtube.com/watch?v=ETroXvRFoKY
 
