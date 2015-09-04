@@ -6,7 +6,7 @@ date: 02-Sep-2015
 
 # Law & Storytelling
 
-The questions and commentaries on the *Preamble* and the *Declaration* are excerpts from [When Words Lose Their Meaning](http://press.uchicago.edu/ucp/books/book/chicago/W/bo5967304.html), by [James Boyd White](https://en.wikipedia.org/wiki/James_Boyd_White), and my edits and additions to [Professor Craig Lawson's](http://law.unl.edu/craig-m-lawson/) Handout for his Law & Literature class. 
+The questions and commentaries on the *Preamble* and the *Declaration* are excerpts from [*When Words Lose Their Meaning*](http://press.uchicago.edu/ucp/books/book/chicago/W/bo5967304.html), by [James Boyd White](https://en.wikipedia.org/wiki/James_Boyd_White), and my edits and additions to [Professor Craig Lawson's](http://law.unl.edu/craig-m-lawson/) Handout for his Law & Literature class. 
 
 ## Law AS Literature: The Preamble
 
@@ -99,11 +99,11 @@ This is our first  exercise in
 
 That's right. All the way through. How did that feel?
 
-Now let's take a closer look. Click on the following link and listen to these excellent actors READ the *Declaration* it to you:
+Now let's take a closer look. Click on the following link and listen to these excellent actors READ the *Declaration* to you:
 
 https://www.youtube.com/watch?v=ETroXvRFoKY
 
-Probably you want to see them do it, but THEN, 
+Probably you want to see them do it, but THEN 
 please close your eyes and play it again. 
 LISTEN TO THE WORDS. How and why do they work?
 
@@ -132,20 +132,23 @@ or is it something about the rhythm, diction, poetry, movement of the verses tha
 > a decent respect to the opinions of mankind requires 
 > that they should declare the causes which impel them to the separation.
 
-Who is speaking? Whose voice is it? Is it a person's voice? A
-committee's voice? No, it is the unanimous voice of the "thirteen United
-States" and their people.
+Who is speaking? Whose voice is it? Is it a person's voice? 
+A committee's voice? 
+No, it is the unanimous voice of the "thirteen United States" and their people.
 
-Who is the audience? Britain? The citizens of the United States? Talking
-out loud to themselves? No. The audience is UNIVERSAL. No less than
-mankind itself. Not located in space or time. This “voice purports to
-know about “the course of human events” and to discern what “becomes
-necessary.” The voice speaks to 18th Century assumptions about the
-universal character of human nature and experience.
+Who is the audience? Britain? 
+The citizens of the United States? 
+Talking out loud to themselves? No. The audience is UNIVERSAL. 
+No less than mankind itself. Not located in space or time. 
+This “voice purports to know about “the course of human events” 
+and to discern what “becomes necessary.” 
+The voice speaks to 18th Century assumptions 
+about the universal character of human nature and experience.
 
-Voice is removed from passion and particular circumstances and is
-therefore almost mild. As one commentator (Stuart Tave) put it: the
-“diction is as little violent as it can be.”
+The voice is removed from passion and particular circumstances 
+and is therefore almost mild. 
+As one commentator (Stuart Tave) put it: 
+the “diction is as little violent as it can be.”
 
 *Dissolve the bands*---not burst asunder the hoops of steel. Not
 throwing off the chains of tyranny, not shattering the manacles of
@@ -158,36 +161,39 @@ It simply “declares” that certain “causes” have produced certain
 effects, and it does so with no more passionate motive than a “decent
 respect to the opinions of mankind.”
 
-We the audience are to learn the “causes of the separation” and then to
-maintain a good opinion of the authors. Very mild. High-minded and
-genteel. 
+We the audience are to learn the “causes of the separation” 
+and then to maintain a good opinion of the authors. 
+Very mild. High-minded and genteel. 
 
 Are we being seduced?
 
-In fact, the audience cannot be MANKIND, for whoever reads the
-Declaration will be English, French, or American. To the foreigner:
-it is a claim of maturity. To the Englishman: a performance of
-reasonableness that undermines the view of the American as uncivilized
-and uncouth. To the American Royalist: it makes a switch of sides
-more possible. To the patriot offers something to reassure his
-critics. And to the undecided American: it is an appeal to join a
-community.
+In fact, the audience cannot be MANKIND, 
+for whoever reads the Declaration will be English, French, or American. 
+To the foreigner: it is a claim of maturity. 
+To the Englishman: a performance of reasonableness 
+that undermines the view of the American as uncivilized and uncouth. 
+To the American Royalist: it makes a switch of sides more possible. 
+To the patriot it offers something to reassure his critics. 
+And to the undecided American: it is an appeal to join a community.
 
-Look at the structure of the sentence: before the main clause “they
-should declare &hellip; ” there is a LONG SUBORDINATE CLAUSE. Principles of
-composition would suggest that this subordinate clause is of secondary
-importance. The reader slides through waiting for a subject and a verb
-and a main clause, but when the reader finally gets there, he finds that
-he has acquiesced in an astonishing set of propositions. In fact the
-CENTRAL propositions that the Declaration is intended to establish. That
-America is “one people”, that “necessity” can justify a unilateral
-separation and that, once separated this people is entitled by by law,
-by nature and by God to an equal station among nations. Fervor: “The
-Laws of Nature and Nature’s God” But it is checked by “a decent respect.
+Look at the structure of the sentence: before the main clause 
+“they should declare &hellip; ” there is a LONG SUBORDINATE CLAUSE. 
+Principles of composition would suggest 
+that this subordinate clause is of secondary importance. 
+The reader slides through waiting for a subject and a verb and a main clause, 
+but when the reader finally gets there, 
+he finds that he has acquiesced in an astonishing set of propositions. 
+In fact the CENTRAL propositions that the Declaration is intended to establish. 
+That America is “one people”, 
+that “necessity” can justify a unilateral separation 
+and that, once separated this people is entitled by by law,
+by nature and by God to an equal station among nations. 
+Fervor: “The Laws of Nature and Nature’s God” 
+But it is checked by "a decent respect."
 Instead of directly addressing these things IT ASSUMES THEM AWAY.
 
-The next paragraph upsets these expectations by affirming and bringing
-to our attention the central tenets:
+The next paragraph upsets these expectations 
+by affirming and bringing to our attention the central tenets:
 
 > We hold these truths to be self-evident, that all men are created
 equal, that they are endowed by their Creator with certain unalienable
@@ -314,25 +320,7 @@ Citizens taken Captive on the high Seas to bear Arms against their
 Country, to become the executioners of their friends and Brethren, or to
 fall themselves by their Hands. 
 
-> He has excited domestic insurrections
-amongst us, and has endeavoured to bring on the inhabitants of our
-frontiers, the merciless Indian Savages, whose known rule of warfare, is
-an undistinguished destruction of all ages, sexes and conditions. In
-every stage of these Oppressions We have Petitioned for Redress in the
-most humble terms: Our repeated Petitions have been answered only by
-repeated injury. A Prince, whose character is thus marked by every act
-which may define a Tyrant, is unfit to be the ruler of a free people.
-Nor have We been wanting in attentions to our British brethren. We have
-warned them from time to time of attempts by their legislature to extend
-an unwarrantable jurisdiction over us. We have reminded them of the
-circumstances of our emigration and settlement here. We have appealed to
-their native justice and magnanimity, and we have conjured them by the
-ties of our common kindred to disavow these usurpations, which, would
-inevitably interrupt our connections and correspondence. They too have
-been deaf to the voice of justice and of consanguinity. We must,
-therefore, acquiesce in the necessity, which denounces our Separation,
-and hold them, as we hold the rest of mankind, Enemies in War, in Peace
-Friends.
+> He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions. In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince, whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.  Nor have We been wanting in attentions to our British brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.
 
 > WE, THEREFORE, the REPRESENTATIVES of the UNITED STATES OF AMERICA, in
 General Congress, Assembled, appealing to the Supreme Judge of the world
