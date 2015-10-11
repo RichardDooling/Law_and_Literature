@@ -253,7 +253,12 @@ A writer/director and master of storytelling with a camera. *Some Like It Hot*, 
 9. The event that occurs at the second act curtain triggers the end of the movie.
 10. The third act must build, build, build in tempo and action until the last event, and then---that's it. Don't hang around.
 
-Billy has some 
+From Cameron Crowe's [Conversations With Billy Wilder Advice For Screenwriters](http://www.listsofnote.com/2012/03/advice-from-billy-wilder.html)
+
+> An actor entering through the door, you've got nothing. 
+> But if he enters through the window, you've got a situation.
+
+> --Billy Wilder
 
 ### Zadie Smith's Rules of Writing
 
@@ -304,8 +309,7 @@ In the GREAT DISSENT Healy tells us the story of Holmes and the First Amendment.
 
 RD
 
-From Cameron Crowe's [Conversations With Billy Wilder Advice For
-Screenwriters](http://www.listsofnote.com/2012/03/advice-from-billy-wilder.html)
+From Cameron Crowe's [Conversations With Billy Wilder Advice For Screenwriters](http://www.listsofnote.com/2012/03/advice-from-billy-wilder.html)
 
 * Another famous [Billy Wilder interview with James Linville in The Paris Review: The Art of Screenwriting No. 1](http://www.theparisreview.org/interviews/1432/the-art-of-screenwriting-no-1-billy-wilder).
 
