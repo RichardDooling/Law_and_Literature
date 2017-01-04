@@ -4,7 +4,7 @@ title: Law & Storytelling
 subtitle: Discussion Tips
 ---
 
-# How Talk About Storytelling
+# How To Talk About Storytelling
 
 ###### By Richard Dooling
 
@@ -62,8 +62,8 @@ Is it worthy of our time and attention?
 
 Recall our opening salvo from Mr. King:
 
-> Story is honorable and trustworthy; 
-> plot is shifty, and best kept under house arrest. 
+    Story is honorable and trustworthy; 
+    plot is shifty, and best kept under house arrest. 
 
 King elaborated on this notion in a different interview, when he said, 
 "Forget plot, but remember the importance of 'situation'":

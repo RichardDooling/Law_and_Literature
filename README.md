@@ -1,7 +1,7 @@
 # Law_and_Literature
 
 I teach Law & Literature and Law & Storytelling at the University of Nebraska College of Law, 
-and this is a public repository of some files I use.  
+and this is a public repository of some files I use. 
 
 * [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).

@@ -2,7 +2,7 @@
 author: Richard Dooling
 title: Law & Storytelling
 subtitle: Introduction
-date: 26-Aug-2015 
+date: 03-Jan-2017 
 ---
 
 # Introduction
@@ -49,7 +49,17 @@ who sometimes almost seem to be directors of a theater production called a trial
 ### Beyond Trials
 
 Good lawyers tell the best possible version of their client's story, 
-and not just in courtrooms. Lawyers often must describe how the client wants to do business with another party, or tell a story about how the client should NOT be investigated by the FBI, or how the client may have killed the victim, but only in self-defense. It's not a stretch to say that lawyers are often biographers of their clients and chroniclers of their client's triumphs and misfortunes. 
+and not just in courtrooms. 
+Lawyers often must describe how the client wants to do business with another party, 
+or tell a story about how the client should NOT be investigated by the FBI, 
+or how the client may have killed the victim, but only in self-defense. 
+It's not a stretch to say that lawyers 
+are often biographers of their clients 
+and chroniclers of their client's triumphs and misfortunes.
+
+As Harvard law prof, Lawrence Lessig, put it:
+
+> It is what a lawyer does . . . that makes this system work. It is not the bluffing, or the outrage, or the strategies and tactics. It is something much simpler than that. What a good lawyer does is tell a story that persuades. Not by hiding the truth or exciting the emotion, but using reason, through a story, to persuade.
 
 When lawyers tell the stories of their clients, 
 said stories must comply with the rules of ethical conduct of the state where the attorney practices law.
@@ -144,6 +154,11 @@ Sacks describes his early attraction to medical stories:
 The list of storytelling lawyers and doctors goes on,
 and we'll consider them as candidates for our reading list.
 
+<!-- BEGIN COMMENT -->
+
+
+
+
 ## Law & Literature
 
 I began teaching at UNL 
@@ -158,8 +173,10 @@ I'll make a case for it, namely, I have plenty of free copies.
 
 The only other book I'd really like to bring into the course is Thomas Healy's [*The Great Dissent: How Oliver Wendell Holmes Changed His Mind--and Changed the History of Free Speech in America*](http://www.amazon.com/The-Great-Dissent-Wendell-Mind/dp/0805094563), to use as our foremost example of nonfiction legal storytelling. 
 
+<!-- END COMMENT -->
+
 Since 2008, Prof. Lawson and I have taken turns teaching Law and Literature.
-Indeed, last spring when I taught Law and Literature, 
+Indeed, when I last taught Law and Literature, 
 the students took over the course early 
 and made it something much grander than I could imagine.
 Their ultimate verdict was that I should make a seminar version of the course, 
@@ -221,11 +238,11 @@ and then try to figure out how they work, preferably by imitation.
 
 I read stories and novels at a much slower pace than, say, a Supreme Court opinion. 
 A novel needs to capture me completely, or I've got other things to read. 
-Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book HelpsRead Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book Helps*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). I took the speed reading test. I came out "average" but I also missed a question.  I also learned a new term for what I do when I read GOOD stuff. I sub vocalize.
+Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book HelpsRead Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book Helps*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). I took the speed reading test. I came out "average" but I also missed a question. I also learned a new term for what I do when I read GOOD stuff. I sub vocalize.
 
 ### Justice Roberts and Slow Reading
 
-Last year when Justice Roberts visited us at the Law College,
+Some years ago, when Justice Roberts visited us at the Law College,
 a student asked him, "What do you read when you aren't reading law?" 
 Or, "What should a young lawyer read when she's not practicing law?"
 
