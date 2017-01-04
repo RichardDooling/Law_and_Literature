@@ -154,26 +154,7 @@ Sacks describes his early attraction to medical stories:
 The list of storytelling lawyers and doctors goes on,
 and we'll consider them as candidates for our reading list.
 
-<!-- BEGIN COMMENT -->
-
-
-
-
 ## Law & Literature
-
-I began teaching at UNL 
-after Professor Lawson invited me to come speak about my novel [*Brain Storm*](http://www.goodreads.com/book/show/15801.Brain_Storm), 
-which was assigned reading at the time in his version of the Law and Literature course; 
-we may read it if you so desire. 
-I have another novel which could work: 
-[*White Man's Grave*](http://www.goodreads.com/book/show/15788.White_Man_s_Grave). 
-It was nominated for the National Book Award long ago. 
-Google it and ponder some reviews. 
-I'll make a case for it, namely, I have plenty of free copies. 
-
-The only other book I'd really like to bring into the course is Thomas Healy's [*The Great Dissent: How Oliver Wendell Holmes Changed His Mind--and Changed the History of Free Speech in America*](http://www.amazon.com/The-Great-Dissent-Wendell-Mind/dp/0805094563), to use as our foremost example of nonfiction legal storytelling. 
-
-<!-- END COMMENT -->
 
 Since 2008, Prof. Lawson and I have taken turns teaching Law and Literature.
 Indeed, when I last taught Law and Literature, 
@@ -292,17 +273,22 @@ So if you have a candidate you'd love to see in the course, prepare to nominate!
 RD
 
 
+<!-- 
+## Law & Literature
 
-<!-- BEGIN COMMENT -->
+I began teaching at UNL 
+after Professor Lawson invited me to come speak about my novel [*Brain Storm*](http://www.goodreads.com/book/show/15801.Brain_Storm), 
+which was assigned reading at the time in his version of the Law and Literature course; 
+we may read it if you so desire. 
+I have another novel which could work: 
+[*White Man's Grave*](http://www.goodreads.com/book/show/15788.White_Man_s_Grave). 
+It was nominated for the National Book Award long ago. 
+Google it and ponder some reviews. 
+I'll make a case for it, namely, I have plenty of free copies. 
 
-<!--
+The only other book I'd really like to bring into the course is Thomas Healy's [*The Great Dissent: How Oliver Wendell Holmes Changed His Mind-and Changed the History of Free Speech in America*](http://www.amazon.com/The-Great-Dissent-Wendell-Mind/dp/0805094563), to use as our foremost example of nonfiction legal storytelling. 
 
-
--->
-
-<!-- END COMMENT -->
-
-
+ -->
 
 [sabbath]:	http://www.nytimes.com/2015/08/16/opinion/sunday/oliver-sacks-sabbath.html	"Sabbath, an essay by Oliver Sacks"
 [scylla]:	https://scholar.google.com/scholar?hl=en&q=scylla+and+charybdis&btnG=&as_sdt=6%2C28	"Search Google Scholar case law for Scylla and Charybdis"
