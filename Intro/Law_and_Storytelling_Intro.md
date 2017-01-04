@@ -272,7 +272,6 @@ So if you have a candidate you'd love to see in the course, prepare to nominate!
 
 RD
 
-
 <!-- 
 ## Law & Literature
 
