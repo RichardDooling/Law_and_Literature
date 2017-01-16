@@ -23,7 +23,9 @@ The rest of the time we read and write.
 
 To that end, several legendary authors 
 have crafted rules for great writing and storytelling.
-I've collected my favorites in the sections following the discussion tips.
+I've collected some of my favorites in a separate file, 
+[Tips_From_Writers](https://github.com/RichardDooling/Law_and_Literature/tree/master/Tips).
+
 And at bottom I've included some of my favorite 
 writing and storytelling resources, websites and books. 
 
@@ -38,10 +40,10 @@ we've discovered in class and in our readings.
 ### The Action-Idea
 
 As Michael Tierno wrote in [*Aristotle's Poetics for Screenwriters: Storytelling Secrets From the Greatest Mind in Western Civilization*][aristotle], 
-great storytellers create a single unified action as a “through line,”
+great storytellers create a single unified action as a "through line,"
 which becomes the story's subject. 
 Then a hero takes the lead in that action,
-which has a “oneness” and connectivity so clear 
+which has a "oneness" and connectivity so clear 
 that Aristotle compares it to a statue.
 
 Is that what happened in the story under discussion?
@@ -119,6 +121,9 @@ between plot and story, and between active and passive voice.
 "You don't write about the horrors of war. 
 No. You write about a kid's burnt socks lying in the road,"
 says novelist-screenwriter Richard Price.
+"Don't tell me the moon is shining; 
+show me the glint of light on broken glass," 
+says Anton Chekhov.
 
 Or as the great Hollywood writer-director Billy Wilder 
 put it in his advice to screenwriters:
@@ -126,8 +131,11 @@ put it in his advice to screenwriters:
 They'll love you forever."
 
 Or as Tierno, the screenwriter, advises: 
-"A plot’s power and emotional impact can't grow 
+"A plot's power and emotional impact can't grow 
 merely because a character talks about what's going on in the story." 
+Or as dramatist and screenwriter, David Mamet, puts it, 
+"Any time two characters are talking about a third, 
+the scene is a crock of shit." 
 
 ### Beginnings and Endings
 
