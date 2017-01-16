@@ -13,7 +13,7 @@ Please consider the following notable collection of rules and writing tips.
 I have copied some into the body of the document 
 and provided links to others.
 
-Many come from Jon Winokur's famous site, [Advise To Writers](http://www.advicetowriters.com/), 
+Many come from Jon Winokur's famous site, [Advice To Writers](http://www.advicetowriters.com/), 
 a precious resource in itself.
 
 ### The Economist
@@ -192,7 +192,7 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 
 ### How To Write, by Colson Whitehead
 
-[How To Write, by Colson Whitehead](http://www.nytimes.com/2012/07/29/books/review/colson-whiteheads-rules-for-writing.html)
+[How To Write, by Colson Whitehead](http://www.nytimes.com/2012/07/29/books/review/colson-whiteheads-rules-for-writing.html).
 
 
 <!-- BEGIN COMMENT -->
