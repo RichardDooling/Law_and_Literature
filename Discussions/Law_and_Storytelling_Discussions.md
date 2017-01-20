@@ -2,6 +2,7 @@
 author: Richard Dooling
 title: Law & Storytelling
 subtitle: Discussion Tips
+date: 19-Jan-2017 
 ---
 
 # How To Talk About Storytelling
@@ -60,6 +61,31 @@ Is it worthy of our time and attention?
 > Aristotle would agree, but he would remind us 
 > that “the whole is always in each of the parts.”
 
+### Who Is The Hero?
+
+From Aristotle to Joseph Campbell's [Hero With a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces), heroes DO things. 
+If the main character lolls around making droll or insightful observations about life, 
+she may be wise, amusing, or edifying, a teacher or the life of the party, 
+but she is not a hero. 
+Identify the hero and ask the same questions Aristotle asked in the *Poetics.* 
+Maybe instead of *doing* things, 
+the hero seems to buffeted by misfortunes or blessed by good fortunes, 
+which have nothing to do with the character's interior life. 
+Is the hero passive? Or is she active? 
+(Like good sentences, active voice is better and shorter.) 
+Things happen to weak heroes. 
+Real heroes make things happen. 
+
+As we discovered, 
+Aristotle believed dramatists must depict 
+not merely life but the moral life of a hero.
+A good story concerns the hero's moral conflict 
+that developed during the story's middle (second act).
+
+For example, if we are discussing *Presumed Innocent*, 
+ask what would Aristotle or Michael Tierno, author of [*Aristotle's Poetics for Screenwriters: Storytelling Secrets From the Greatest Mind in Western Civilization*](http://www.amazon.com/Aristotles-Poetics-Screenwriters-Storytelling-Civilization/dp/0786887400), 
+would say about Turow's creation Rusty Sabitch? 
+
 ### Plot versus Story
 
 Recall our opening salvo from Mr. King:
@@ -97,19 +123,6 @@ Both King and Wilder seem to believe that
 the proper situation---could we substitute "set-up" or first act---will create a story 
 that just about tells itself.
 
-### Characters
-
-First, the Hero. 
-As we learned, 
-Aristotle believed dramatists must depict 
-not merely life but the moral life of a hero.
-A good story concerns the hero's moral conflict 
-that developed during the story's middle (second act).
-
-For example, if we are discussing *Presumed Innocent*, 
-ask what would Aristotle or Michael Tierno, author of [*Aristotle's Poetics for Screenwriters: Storytelling Secrets From the Greatest Mind in Western Civilization*](http://www.amazon.com/Aristotles-Poetics-Screenwriters-Storytelling-Civilization/dp/0786887400), 
-would say about Turow's creation Rusty Sabitch? 
-
 ### Show Don't Tell
 
 Advice so common it's now a clich&eacute; 
@@ -137,15 +150,20 @@ Or as dramatist and screenwriter, David Mamet, puts it,
 "Any time two characters are talking about a third, 
 the scene is a crock of shit." 
 
+Talk is so cheap. *Show* the reader things.
+Paint them a picture. 
+And let them figure out what's going on, 
+instead of spoiling it all by *telling* them.
+
 ### Beginnings and Endings
 
-Of acts, of scenes, of the story. 
+Of acts, of scenes, of the story? 
 Did the story begin at the right place? 
 If it starts too early 
 then we must wait too long for the good parts.
 If it starts too late 
 then we might get too much backstory, flashback or voice-over, 
-which distract or divert us from the seamless moving story we crave.
+which distract or divert us from the seamless relentless story we crave.
 
 These movie terms have near equivalents in the world of prose, 
 but small doses of these indirections (e.g. flashbacks) go a long way.
