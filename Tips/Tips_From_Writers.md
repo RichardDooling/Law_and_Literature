@@ -183,6 +183,12 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 * Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
 * Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages.
 
+### George Saunders: What Writers Really Do
+
+[George Saunders: what writers really do when they write](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write)
+
+A series of instincts, thousands of tiny adjustments, hundreds of drafts … What is the mysterious process writers go through to get an idea on to the page?
+
 <!-- BEGIN COMMENT -->
 
 <!--
