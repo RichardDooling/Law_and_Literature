@@ -222,7 +222,7 @@ and then try to figure out how they work, preferably by imitation.
 
 I read stories and novels at a much slower pace than, say, a Supreme Court opinion. 
 A novel needs to capture me completely, or I've got other things to read. 
-Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book HelpsRead Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book Helps*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). (If the paywall gets in the way, I'll send to you via WSJ). I took the speed reading test. I came out "average" but I also missed a question. I also learned a new term for what I do when I read good stuff. I sub vocalize.
+Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). (If the paywall gets in the way, I'll send to you via WSJ). I took the speed reading test. I came out "average" but I also missed a question. I also learned a new term for what I do when I read good stuff. I sub vocalize.
 
 ### Justice Roberts and Slow Reading
 
