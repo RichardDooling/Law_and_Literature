@@ -2,17 +2,15 @@
 author: Richard Dooling
 title: Law & Storytelling
 subtitle: Discussion Tips
-date: 19-Jan-2017 
+date: 01-Jan-2018 
 ---
 
 # How To Talk About Storytelling
 
-###### By Richard Dooling
-
 Here, I'll collect tips for studying and discussing the works we read. 
 These include our discoveries during our gatherings, 
 so if something is missing, and you'd like to add a short paragraph, please send it to me.
-Also, storytelling, especially for us, is accomplished by WRITING.
+Also, storytelling, especially for us, is accomplished by *writing*.
 
 Aristotle said, "Excellence is a habit. We are what we do." 
 Excellent readers and writers get that way by *doing* lots of reading and writing,
@@ -179,7 +177,7 @@ sometimes it pays to startle the reader or the audience
 by coming into a scene long after it began,
 in effect skipping way ahead without warning.
 
-Recall the original *Hangover,*
+Recall the original *Hangover* movie,
 especially [the morning after scene](https://www.youtube.com/watch?v=xlrqaAjBwS4).
 We suddenly wake up in a trashed hotel room 
 surrounded by fallout from epic debauchery: 

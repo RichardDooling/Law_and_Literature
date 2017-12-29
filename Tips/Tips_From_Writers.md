@@ -2,7 +2,7 @@
 author: Richard Dooling
 title: Law & Storytelling
 subtitle: Tips From Authors & Writers
-date: 27-Feb-2017 
+date: 01-Jan-2018 
 ---
 
 ## Writing and Storytelling Tips
@@ -18,7 +18,7 @@ Many come from Jon Winokur's justly famous site [Advice To Writers](http://www.a
 
 ### The Economist
 
-* [The Economist's Style Guide]( http://www.economist.com/styleguide/introduction), which leads off with [George Orwell's Rules](https://www.writingclasses.com/toolbox/tips-masters/george-orwell-6-questions-6-rules) from his famous essay [*Politics and the English Language*](http://www.orwell.ru/library/essays/politics/english/e_polit/). 
+*The Economist's Style Guide* [George Orwell's Rules](https://www.writingclasses.com/toolbox/tips-masters/george-orwell-6-questions-6-rules) from his famous essay [*Politics and the English Language*](http://www.orwell.ru/library/essays/politics/english/e_polit/) (tips below). 
 
 ### The Elements of Style
 
@@ -62,7 +62,7 @@ I think the following rules will cover most cases:
 
 From Orwell's essay [*Politics and the English Language*](http://www.orwell.ru/library/essays/politics/english/e_polit/). 
 
-### BILLY WILDER'S advice to screenwriters
+### Billy Wilder's Advice To Screenwriters
 
 A writer/director and master of storytelling with a camera. *Some Like It Hot*, *Double Indemnity*, *Sunset Blvd*, *The Apartment*, and many others. Classics. 
 
@@ -99,8 +99,7 @@ Another famous [Billy Wilder interview with James Linville in The Paris Review: 
 7. Work on a computer that is disconnected from the Internet.
 8. Protect the time and space in which you write. Keep everybody away from it, even the people who are most important to you.
 9. Don’t confuse honors with achievement.
-10. Tell the truth through whichever veil comes to hand — but tell it. Resign yourself to the 
-lifelong sadness that comes from never being satisfied.
+10. Tell the truth through whichever veil comes to hand — but tell it. Resign yourself to the lifelong sadness that comes from never being satisfied.
 
 From [Zadie Smith's 10 Rules of Writing](https://www.brainpickings.org/2012/09/19/zadie-smith-10-rules-of-writing/).
 
@@ -151,15 +150,15 @@ From [Jonathan Franzen’s 10 Rules for Writers](http://www.advicetowriters.com/
 
 ### Elmore Leonard
 
-1. Never open a book with weather. If it's only to create atmosphere, and not a charac­ter's reaction to the weather, you don't want to go on too long. The reader is apt to leaf ahead look­ing for people. There are exceptions. If you happen to be Barry Lopez, who has more ways than an Eskimo to describe ice and snow in his book Arctic Dreams, you can do all the weather reporting you want.
-2. Avoid prologues: they can be ­annoying, especially a prologue ­following an introduction that comes after a foreword. But these are ordinarily found in non-fiction. A prologue in a novel is backstory, and you can drop it in anywhere you want. There is a prologue in John Steinbeck's Sweet Thursday, but it's OK because a character in the book makes the point of what my rules are all about. He says: "I like a lot of talk in a book and I don't like to have nobody tell me what the guy that's talking looks like. I want to figure out what he looks like from the way he talks."
+1. Never open a book with weather. If it's only to create atmosphere, and not a character's reaction to the weather, you don't want to go on too long. The reader is apt to leaf ahead looking for people. There are exceptions. If you happen to be Barry Lopez, who has more ways than an Eskimo to describe ice and snow in his book Arctic Dreams, you can do all the weather reporting you want.
+2. Avoid prologues: they can be annoying, especially a prologue following an introduction that comes after a foreword. But these are ordinarily found in non-fiction. A prologue in a novel is backstory, and you can drop it in anywhere you want. There is a prologue in John Steinbeck's Sweet Thursday, but it's OK because a character in the book makes the point of what my rules are all about. He says: "I like a lot of talk in a book and I don't like to have nobody tell me what the guy that's talking looks like. I want to figure out what he looks like from the way he talks."
 3. Never use a verb other than "said" to carry dialogue. The line of dialogue belongs to the character; the verb is the writer sticking his nose in. But "said" is far less intrusive than "grumbled", "gasped", "cautioned", "lied". I once noticed Mary McCarthy ending a line of dialogue with "she asseverated" and had to stop reading and go to the dictionary.
 4. Never use an adverb to modify the verb "said" . . . he admonished gravely. To use an adverb this way (or almost any way) is a mortal sin. The writer is now exposing himself in earnest, using a word that distracts and can interrupt the rhythm of the exchange. I have a character in one of my books tell how she used to write historical romances "full of rape and adverbs".
 5. Keep your exclamation points ­under control. You are allowed no more than two or three per 100,000 words of prose. If you have the knack of playing with exclaimers the way Tom Wolfe does, you can throw them in by the handful.
 6. Never use the words "suddenly" or "all hell broke loose". This rule doesn't require an explanation. I have noticed that writers who use "suddenly" tend to exercise less control in the application of exclamation points.
-7. Use regional dialect, patois, sparingly. Once you start spelling words in dialogue phonetically and loading the page with apos­trophes, you won't be able to stop. Notice the way Annie Proulx captures the flavour of Wyoming voices in her book of short stories Close Range.
-8. Avoid detailed descriptions of characters, which Steinbeck covered. In Ernest Hemingway's "Hills Like White Elephants", what do the "Ameri­can and the girl with him" look like? "She had taken off her hat and put it on the table." That's the only reference to a physical description in the story.
-9. Don't go into great detail describing places and things, unless you're ­Margaret Atwood and can paint scenes with language. You don't want descriptions that bring the action, the flow of the story, to a standstill.
+7. Use regional dialect, patois, sparingly. Once you start spelling words in dialogue phonetically and loading the page with apostrophes, you won't be able to stop. Notice the way Annie Proulx captures the flavour of Wyoming voices in her book of short stories Close Range.
+8. Avoid detailed descriptions of characters, which Steinbeck covered. In Ernest Hemingway's "Hills Like White Elephants", what do the "American and the girl with him" look like? "She had taken off her hat and put it on the table." That's the only reference to a physical description in the story.
+9. Don't go into great detail describing places and things, unless you're Margaret Atwood and can paint scenes with language. You don't want descriptions that bring the action, the flow of the story, to a standstill.
 10. Try to leave out the part that readers tend to skip. Think of what you skip reading a novel: thick paragraphs of prose you can see have too many words in them.
 
 My most important rule is one that sums up the 10: if it sounds like writing, I rewrite it.
@@ -179,7 +178,7 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 * Every character should want something, even if it is only a glass of water.
 * Every sentence must do one of two things–reveal character or advance the action.
 * Start as close to the end as possible.
-* Be a sadist. No matter how sweet and innocent your leading characters, make awful things happen to them–in order that the reader may see what they are made of.
+* Be a sadist. No matter how sweet and innocent your leading characters, make awful things happen to them in order that the reader may see what they are made of.
 * Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
 * Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages.
 

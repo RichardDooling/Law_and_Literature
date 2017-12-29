@@ -2,7 +2,7 @@
 author: Richard Dooling
 title: Law & Storytelling
 subtitle: Introduction
-date: 03-Jan-2017 
+date: 01-Jan-2018 
 ---
 
 # Introduction
@@ -71,13 +71,15 @@ on behalf of their clients must be "true,"
 an adjective of uncertain dimensions 
 even before Pilot asked Christ: "What is truth?" 
 
+### Literary Devices
+
 A lawyer must stick to the facts and the law,
 but that doesn't mean that the story can't be polished and well told. 
 It doesn't mean that the story can't be interesting and employ literary devices, 
 like rhyme, rhythm, plot, character, theme, conflict, structural narrative and allusions to other timeless stories, legends and myths. 
 
 Go to Google Scholar and [search the case law for "Scylla and Charybdis"][scylla]
-and sample the over 1,000 cases, most federal, which contain the expression.
+and sample the over 1,400 cases, most federal, which contain the expression.
 "between [Scylla and Charybdis](http://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis)." This is a fancy, literary way of saying "between a rock and a hard place," or "between the Devil and the deep blue sea," or "the horns of a dilemma," or even a [Catch-22](https://en.wikipedia.org/wiki/Catch-22_(logic)), after Joseph Heller's satirical novel about fighter bombers in World War II. 
 
 Scylla and Charybdis were mythical sea monsters in Homer's epic [Odyssey](https://en.wikipedia.org/wiki/Odyssey). Scylla was a rock shoal (described as a six-headed sea monster) on the Italian side of the strait, and Charybdis was a whirlpool off the coast of Sicily. They were dangerous threats to sailors who had to navigate between them. Avoiding Scylla meant passing too close to Charybdis. Just one example of judicial storytelling employing literary allusion.
@@ -87,6 +89,8 @@ must be sensitive to his audience and to context.
 Alluding to Scylla and Charybdis would be well-received at oral arguments 
 before the United States Supreme Court,
 maybe not so much before the Custer County Court in Broken Bow, Nebraska.
+
+### Not Just Trial Lawyers
 
 Trial lawyers are perhaps the ultimate storytellers, 
 but appellate lawyers also must write and tell compelling tales,
@@ -134,12 +138,11 @@ The great Russian playwright and author, [Anton Checkhov](https://en.wikipedia.o
 
 [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande) who writes for the *New Yorker* tells stories galore about patients and doctors in bestsellers like [*Complications: A Surgeon's Notes on an Imperfect Science*](http://www.amazon.com/Complications-Surgeons-Notes-Imperfect-Science/dp/0312421702/) and [*Being Mortal: Medicine and What Matters in the End*](http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152/).
 
-You may have seen the great [Oliver Sacks](https://en.wikipedia.org/wiki/Oliver_Sacks) writing in the *New York Times* recently, an essay entitled [*Sabbath*][sabbath]. 
-Sacks, recently diagnosed with terminal cancer, 
-has been called "the poet laureate of medicine" 
+The great [Oliver Sacks](https://en.wikipedia.org/wiki/Oliver_Sacks) wrote an essay for the *New York Times* shortly before he died in 2015, an essay entitled [*Sabbath*][sabbath]. 
+Sacks has been called "the poet laureate of medicine" 
 because of his neurological tales including 
 [*Awakenings*](http://www.oliversacks.com/books-by-oliver-sacks/awakenings/) (made into a major motion picture starring the late Robin Williams), or the *New York Times* bestseller [*The Man Who Mistook His Wife For A Hat*](http://www.oliversacks.com/books-by-oliver-sacks/man-mistook-wife-hat/) and many other great medical tales. 
-Sacks describes his early attraction to medical stories:
+In [*Sabbath*][sabbath], Sacks described his early attraction to medical stories:
 
 > Almost unconsciously, I became a storyteller 
 > at a time when medical narrative was almost extinct. 
@@ -149,7 +152,7 @@ Sacks describes his early attraction to medical stories:
 > (and I was encouraged here 
 > by the great Russian neuropsychologist A.R. Luria).
 
-- Oliver Sacks, [*Sabbath*](http://www.nytimes.com/2015/08/16/opinion/sunday/oliver-sacks-sabbath.html).
+> --Oliver Sacks, [*Sabbath*](http://www.nytimes.com/2015/08/16/opinion/sunday/oliver-sacks-sabbath.html).
 
 The list of storytelling lawyers and doctors goes on,
 and we'll consider them as candidates for our reading list.
@@ -157,7 +160,7 @@ and we'll consider them as candidates for our reading list.
 ## Law & Literature
 
 Since 2008, Prof. Lawson and I have taken turns teaching Law and Literature.
-Indeed, when I last taught Law and Literature, 
+Indeed, when I last taught Law and Literature (in 2014, I think),
 the students took over the course early 
 and made it something much grander than I could imagine.
 Their ultimate verdict was that I should make a seminar version of the course, 
@@ -173,10 +176,10 @@ Even our own Roscoe Pound edited a well-regarded anthology called *Law in Action
 What might be called a clich&eacute; Law and Literature reading list 
 would include works like Shakespeare's *The Merchant of Venice*, Camus' *The Stranger* or *The Fall*, Frank Kafka's *The Trial*, excerpts from Dostoevsky's *Crime and Punishment*, a rereading of *To Kill A Mockingbird*, Truman Capote's *In Cold Blood* and so on.
 
-### Law IN Literature
+### Law *In* Literature
 
-Traditionally Law and Literature comes in two flavors: [Law IN Literature][in] and [Law AS Literature][as], Law IN Literature being the more obvious of the two.
-Meaning, for instance, we read Franz Kafka's *The Trial* and discuss how most non-lawyers feel upon being confronted by a system where everybody speaks a foreign language and the rules all seem arbitrary or rigged in favor of the authorities, or in favor of people with lots of cash. Most of the books listed above fall into the Law IN Literature category.
+Traditionally Law and Literature comes in two flavors: [Law *in* Literature][in] and [Law *as* Literature][as], Law *in* Literature being the more obvious of the two.
+Meaning, for instance, we read Franz Kafka's *The Trial* and discuss how most non-lawyers feel upon being confronted by a system where everybody speaks a foreign language and the rules all seem arbitrary or rigged in favor of the authorities, or in favor of people with lots of cash. Most of the books listed above fall into the Law *in* Literature category.
 
 This genre of the traditional Law & Literature course looks at legal dramas and themes in literature. The idea behind the course is that those who study the law should also read great literature about the law, 
 because authors offer an "independent" view of the law. 
@@ -190,19 +193,19 @@ How is law portrayed *in* literature?
 
 > Authors have a lesson to teach legal scholars and lawyers alike about the human condition, and the law's effect on it. Such scholars tend to cite authors like Franz Kafka, Albert Camus, Herman Melville, Fyodor Dostoevsky, and Charles Dickens. The fictional situations presented in literature, these scholars assert, can tell a great deal about political and social situations, and the individual that often find themselves before the court.
 
-### Law AS Literature
+### Law *As* Literature
 
-Less obvious but equally interesting is studying Law AS Literature, 
-which means the class considers what literary techniques WORK 
+Less obvious but equally interesting is studying Law *as* Literature, 
+which means the class considers what literary techniques work 
 when representing clients by writing and telling stories. 
 I might make the argument that every case is a story, 
 and every story is a case 
 (protagonist, antagonist, being compared to plaintiff and defendant, or vice versa). 
-Or we might ask: how does The Declaration of Independence WORK as a piece of literature? 
+Or we might ask: how does The Declaration of Independence work as a piece of literature? 
 What rhetorical gimmicks does it employ to make its case? 
 What literary techniques does it use to persuade, 
-not just Tories and colonists, but US?
-Indeed how does it persuade THE AGES 
+not just Tories and colonists, but us?
+Indeed how does it persuade *the ages* 
 and the future generations it was clearly addressing?
 
 Law *as* literature scholars critique and analyze legal writing as a form of literature. 
@@ -213,13 +216,13 @@ They ask, what tools and techniques do legal writers use that are just like the 
 In Law and Literature and maybe even more so in Law and Storytelling, 
 we make a concerted effort to read slowly and carefully. 
 The Law and Literature course is a more formal and serious version of a book club.
-Law and Storytelling, I imagine, will be a more formal and serious version of a writing course.
-Our mission is to SLOW DOWN and spend time with great stories and great literature, 
+Law and Storytelling is a more formal and serious version of a writing course.
+Our mission is to *slow down* and spend time with great stories and great literature, 
 and then try to figure out how they work, preferably by imitation.
 
 I read stories and novels at a much slower pace than, say, a Supreme Court opinion. 
 A novel needs to capture me completely, or I've got other things to read. 
-Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book HelpsRead Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book Helps*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). I took the speed reading test. I came out "average" but I also missed a question. I also learned a new term for what I do when I read GOOD stuff. I sub vocalize.
+Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book HelpsRead Slowly to Benefit Your Brain and Cut Stress At Least 30 Minutes of Uninterrupted Reading With a Book or E-Book Helps*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). (If the paywall gets in the way, I'll send to you via WSJ). I took the speed reading test. I came out "average" but I also missed a question. I also learned a new term for what I do when I read good stuff. I sub vocalize.
 
 ### Justice Roberts and Slow Reading
 
@@ -231,7 +234,7 @@ Justice Roberts didn't hesitate a moment: "Literature!
 **If you don't read great literature you don't even know what a good sentence sounds like.**"
 
 A perfect description of what we are about. 
-I would add that if you don't cultivate and MAINTAIN the habit 
+I would add that if you don't cultivate and *maintain* the habit 
 of reading great literature your whole life, 
 you'll quickly *forget* what a good sentence sounds like.
 
@@ -244,19 +247,20 @@ Fiction and nonfiction both require research and mastery of details.
 "If you can't explain it simply, you don't understand it well enough," 
 said Einstein, and writing a book, or telling a story, or even teaching a class may be thought of as an attempt to solve a problem: How to learn about stories and storytelling and apply those skills to the practice of law? 
 
-In this seminar we are intensely interested in how a story grabs you and moves you. 
-
+In this seminar, 
+we are intensely interested in how a story grabs you and moves you. 
 We don't want to be scholars and kill storytelling by analyzing it. 
-E.B. White, the author of *Charlotte's Web* and many other tales, said:
+[E.B. White](https://en.wikipedia.org/wiki/E._B._White), 
+the author of *Charlotte's Web* and many other tales, put it this way:
 
 > Analyzing humor is like dissecting a frog. 
 > Few people are interested and the frog dies of it."
 
-> --[E.B. White](https://en.wikipedia.org/wiki/E._B._White)
-
 Instead of trying to reverse engineer or analyze stories,
 we learn by doing, namely, by reading and writing stories;
-not by reading academic descriptions of stories to learn lessons better learned by reading the original, twice if necessary, to see how it works.
+not by reading academic descriptions of stories 
+to learn lessons better learned by reading the original, 
+twice if necessary, to see how it works.
 
 ### Selecting Great Stories To Read
 
@@ -266,9 +270,9 @@ so you can look over some likely candidates for reading,
 but I encourage you to think outside the box. 
 (Professor Lawson's version of this course includes Jane Austen's *Emma* and Jean Dominque-Bauby's [*The Diving Bell And The Butterfly*](https://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly), anything but obvious choices for a Law & Lit course.) 
 
-I am primarily interested in getting a recommendation from each of you for a short story, novella, play, essay, even a comic book or screenplay that grabbed you and MOVED you. We want to know why?
+I am primarily interested in getting a recommendation from each of you for a short story, novella, play, essay, even a comic book or screenplay that grabbed you and *moved* you. We want to know why.
 
-So if you have a candidate you'd love to see in the course, prepare to nominate! Long novels, like *The Brothers Karamazov* or *Bleak House* are prohibitive because it's tough to fit all that reading into a law school education. Better are shorter, compelling, streamlined stories.
+So if you have a candidate you'd love to see in the course, prepare to nominate! Long novels, like *The Brothers Karamazov* or *Bleak House* are prohibitive because it's tough to fit all that reading into a law school education. Better are shorter, compelling, streamlined stories, with strong heroes.
 
 RD
 
