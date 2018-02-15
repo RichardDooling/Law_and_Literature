@@ -25,6 +25,17 @@ Many come from Jon Winokur's justly famous site [Advice To Writers](http://www.a
 * [The Elements of Style: Free 1918 Version](http://www.bartleby.com/141/) has many revisions, 
 most recently [The Elements of Style, Fourth Edition 4th Edition](http://www.amazon.com/The-Elements-Style-Fourth-Edition/dp/020530902X/inscape-20) (1999).
 
+### George Saunders: What Writers Really Do
+
+[George Saunders: what writers really do when they write](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write): A series of instincts, thousands of tiny adjustments, hundreds of drafts … What is the mysterious process writers go through to get an idea on to the page?
+
+These 4 videos are superb: 
+
+* [George Saunders - On Story](https://www.youtube.com/watch?v=1-1xNNrABw8)
+* [George Saunders: On the Relationship Between Reader and Writer](https://www.youtube.com/watch?v=Iygsz2AoOmI)
+* [George Saunders: In Defense of Darkness](https://www.youtube.com/watch?v=1X5u8Li3Qew)
+* [George Saunders: On the Tricks of the Writing Process](https://www.youtube.com/watch?v=klz6C2ewXmo)
+
 ### Stephen King 
 
 Stephen King prefers to spend his days writing and reading, 
@@ -182,11 +193,6 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 * Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
 * Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages.
 
-### George Saunders: What Writers Really Do
-
-[George Saunders: what writers really do when they write](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write)
-
-A series of instincts, thousands of tiny adjustments, hundreds of drafts … What is the mysterious process writers go through to get an idea on to the page?
 
 <!-- BEGIN COMMENT -->
 
