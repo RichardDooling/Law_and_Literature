@@ -207,7 +207,6 @@ William Strunk's advice about writing in general echoes this advice:
 
 > From [The Elements of Style: Free 1918 Version](http://www.bartleby.com/141/) has many revisions, most recently [The Elements of Style, Fourth Edition 4th Edition](http://www.amazon.com/The-Elements-Style-Fourth-Edition/dp/020530902X/inscape-20) (1999).
 
-
 [aristotle]:   http://www.amazon.com/Aristotles-Poetics-Screenwriters-Storytelling-Civilization/dp/0786887400   "Aristotle's Poetics For Screenwriters" 
 
 <!-- BEGIN COMMENT -->
