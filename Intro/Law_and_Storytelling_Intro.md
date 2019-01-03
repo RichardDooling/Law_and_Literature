@@ -23,7 +23,8 @@ In villages all over the more remote portions of the planet,
 who gather in the communal clearings 
 and listen to the grievances of villagers.
 Each affected villager gets a chance to tell her side of the story, 
-and the "palaver" (as it is called in Sierra Leone, West Africa, where I stayed for some months in the early 1980s) 
+and the "palaver" 
+(as it is called in Sierra Leone, West Africa, where I stayed for some months in the early 1980s) 
 often becomes a village drama, 
 with actors, witnesses, and affected parties and their relatives, 
 who each "take the floor" and do their best to move and persuade the crowd.
@@ -34,10 +35,14 @@ and then issue a decision, or judgment.
 
 ### Storytelling Lawyers
 
-The famous Wyoming "frontier justice" lawyer [Gerry Spence](https://en.wikipedia.org/wiki/Gerry_Spence) used to give a nice talk about how, beginning even before *voir dire,* the jury is searching the courtroom for the "teller of truths" 
+The famous Wyoming "frontier justice" lawyer [Gerry Spence](https://en.wikipedia.org/wiki/Gerry_Spence) used to give a nice talk about how, beginning even before *voir dire,* 
+the jury is searching the courtroom for the "teller of truths" 
 or the one with the best, most-likely story.
-And this state of affairs, according to Spence, hasn't changed much 
-since tribes of humans gathered around the fire in the evening for what might be called proto-dispute-resolution, which (you guessed it) consisted mainly of stories competing for first prize. Who is telling the truest story? 
+According to Spence, this state of affairs hasn't changed much 
+since tribes of humans gathered around the fire in the evening 
+for what might be called proto-dispute-resolution, which (you guessed it) 
+consisted mainly of stories competing for first prize. 
+Who is telling the truest story? 
 
 Nowadays we have courtrooms, which (no surprise) 
 often feel more like theaters, 
@@ -50,8 +55,8 @@ who sometimes almost seem to be directors of a theater production called a trial
 
 Good lawyers tell the best possible version of their client's story, 
 and not just in courtrooms. 
-Lawyers often must describe how the client wants to do business with another party, 
-or tell a story about how the client should NOT be investigated by the FBI, 
+Lawyers often must describe why the client wants to do business with another party, 
+or tell a story about how the client should *not* be investigated by the FBI, 
 or how the client may have killed the victim, but only in self-defense. 
 It's not a stretch to say that lawyers 
 are often biographers of their clients 
@@ -61,7 +66,7 @@ As Harvard law prof, Lawrence Lessig, put it:
 
 > It is what a lawyer does . . . that makes this system work. It is not the bluffing, or the outrage, or the strategies and tactics. It is something much simpler than that. What a good lawyer does is tell a story that persuades. Not by hiding the truth or exciting the emotion, but using reason, through a story, to persuade.
 
-When lawyers tell the stories of their clients, 
+When lawyers tell client stories, 
 said stories must comply with the rules of ethical conduct of the state where the attorney practices law.
 Whether told on behalf of an angry plaintiff 
 or an insulted defendant, 
@@ -93,12 +98,15 @@ maybe not so much before the Custer County Court in Broken Bow, Nebraska.
 ### Not Just Trial Lawyers
 
 Trial lawyers are perhaps the ultimate storytellers, 
-but appellate lawyers also must write and tell compelling tales,
-or they tell abstract, formal boring stories 
+but appellate lawyers also must write and tell compelling tales.
+Otherwise, they'll end up telling abstract, formal boring stories 
 written in the passive voice, 
 and the whole exercise puts everyone to sleep. 
 
-At oral argument, the best appellate lawyers strive for the tone of an erudite after dinner conversation, a story, if you will, about the law as applied to their client, and why their client's version of the story should prevail.
+At oral argument, the best appellate lawyers strive 
+for the tone of an erudite after dinner conversation, 
+a story, if you will, about the law as applied to their client, 
+and why their client's version of the story should prevail.
 
 Lawyer/authors, like John Grisham, Lisa Scottoline, Scott Turow, and Linda Fairstein, to name only a few, are so common that I used to joke that it should be a separate occupation on Schedule C of our Income Tax return. Why? Storytelling comes naturally to good lawyers, and many of them try to turn their lawyerly storytelling skills to writing fiction or great essays (see, e.g., [Jeffrey Toobin](https://en.wikipedia.org/wiki/Jeffrey_Toobin)). 
 
@@ -112,8 +120,9 @@ might shed light on our own profession and its storytelling ways.
 When a doctor examines a patient for the first time, 
 the doctor "takes" or records the patient's history,
 the story of her life, certainly the story of her medical life.
-Older, wiser doctors try to teach younger ones to LISTEN
-to the patient tell her story. To hear the patient's words and examine the patient's body for corroborating evidence and clues to diagnosis.
+Older, wiser doctors try to teach young residents to *listen*
+to the patient tell her story. 
+To hear the patient's words and examine the patient's body for corroborating evidence and clues to diagnosis.
 
 Like legal storytelling, 
 medical storytelling is an art, 
@@ -166,11 +175,11 @@ and made it something much grander than I could imagine.
 Their ultimate verdict was that I should make a seminar version of the course, 
 and that's how Law and Storytelling was born.
 
-But we'll begin with some of the Law and Literature basics, 
-just so you know what that course usually entails.
+We will discuss Law and Literature along the way, 
+especially how literary techniques accentuate fine legal storytelling.
 Many law schools offer a Law and Literature course.
 Most of them contain a collection of the predictable works
-that Judge Richard A. Posner complained about in his famous book [*Law and Literature*](http://www.amazon.com/Law-Literature-Richard-A-Posner/dp/0674032462).
+that Judge Richard A. Posner complained about in his book [*Law and Literature: A Mistaken Relation*](http://www.amazon.com/Law-Literature-Richard-A-Posner/dp/0674032462).
 Even our own Roscoe Pound edited a well-regarded anthology called *Law in Action: An Anthology of the Law in Literature* (New York:Crown, 1947)
 
 What might be called a clich&eacute; Law and Literature reading list 
@@ -214,9 +223,9 @@ They ask, what tools and techniques do legal writers use that are just like the 
 ## Slow Reading
 
 In Law and Literature and maybe even more so in Law and Storytelling, 
-we make a concerted effort to read slowly and carefully. 
-The Law and Literature course is a more formal and serious version of a book club.
-Law and Storytelling is a more formal and serious version of a writing course.
+we read slowly and carefully. 
+If the typical Law and Literature course is a more formal and serious version of a book club,
+then Law and Storytelling is a more formal and serious version of a writing course.
 Our mission is to *slow down* and spend time with great stories and great literature, 
 and then try to figure out how they work, preferably by imitation.
 
@@ -231,7 +240,7 @@ a student asked him, "What do you read when you aren't reading law?"
 Or, "What should a young lawyer read when she's not practicing law?"
 
 Justice Roberts didn't hesitate a moment: "Literature! 
-**If you don't read great literature you don't even know what a good sentence sounds like.**"
+If you don't read great literature you don't even know what a good sentence sounds like."
 
 A perfect description of what we are about. 
 I would add that if you don't cultivate and *maintain* the habit 
@@ -242,10 +251,14 @@ you'll quickly *forget* what a good sentence sounds like.
 
 Most authors will tell you that they write books, 
 not because they know the answers and would like to share them with their readers. 
-No, usually the author has a question or a problem and attempts to *solve* the problem by dramatizing it and writing it out. 
+No, usually the author has a question or a problem 
+and attempts to *solve* the problem by dramatizing it and writing it out. 
 Fiction and nonfiction both require research and mastery of details. 
 "If you can't explain it simply, you don't understand it well enough," 
-said Einstein, and writing a book, or telling a story, or even teaching a class may be thought of as an attempt to solve a problem: How to learn about stories and storytelling and apply those skills to the practice of law? 
+said Einstein, and writing a book, or telling a story, 
+or even teaching a class may be thought of as an attempt to solve a problem: 
+How to learn about stories and storytelling 
+and apply those skills to the practice of law? 
 
 In this seminar, 
 we are intensely interested in how a story grabs you and moves you. 
@@ -272,7 +285,11 @@ but I encourage you to think outside the box.
 
 I am primarily interested in getting a recommendation from each of you for a short story, novella, play, essay, even a comic book or screenplay that grabbed you and *moved* you. We want to know why.
 
-So if you have a candidate you'd love to see in the course, prepare to nominate! Long novels, like *The Brothers Karamazov* or *Bleak House* are prohibitive because it's tough to fit all that reading into a law school education. Better are shorter, compelling, streamlined stories, with strong heroes.
+First we will learn the rudiments of story structure, 
+then if you have a candidate you'd love to see in the course, prepare to nominate! 
+Long novels, like *The Brothers Karamazov* or *Bleak House* are prohibitive 
+because it's tough to fit all that reading into a law school education. 
+Better are shorter, compelling, streamlined stories, with strong heroes.
 
 RD
 
