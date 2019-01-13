@@ -161,13 +161,13 @@ From [Jonathan Franzen’s 10 Rules for Writers](http://www.advicetowriters.com/
 
 ### Elmore Leonard
 
-1. Never open a book with weather. If it's only to create atmosphere, and not a character's reaction to the weather, you don't want to go on too long. The reader is apt to leaf ahead looking for people. There are exceptions. If you happen to be Barry Lopez, who has more ways than an Eskimo to describe ice and snow in his book Arctic Dreams, you can do all the weather reporting you want.
-2. Avoid prologues: they can be annoying, especially a prologue following an introduction that comes after a foreword. But these are ordinarily found in non-fiction. A prologue in a novel is backstory, and you can drop it in anywhere you want. There is a prologue in John Steinbeck's Sweet Thursday, but it's OK because a character in the book makes the point of what my rules are all about. He says: "I like a lot of talk in a book and I don't like to have nobody tell me what the guy that's talking looks like. I want to figure out what he looks like from the way he talks."
+1. Never open a book with weather. If it's only to create atmosphere, and not a character's reaction to the weather, you don't want to go on too long. The reader is apt to leaf ahead looking for people. There are exceptions. If you happen to be Barry Lopez, who has more ways than an Eskimo to describe ice and snow in his book *Arctic Dreams*, you can do all the weather reporting you want.
+2. Avoid prologues: they can be annoying, especially a prologue following an introduction that comes after a foreword. But these are ordinarily found in non-fiction. A prologue in a novel is backstory, and you can drop it in anywhere you want. There is a prologue in John Steinbeck's *Sweet Thursday*, but it's OK because a character in the book makes the point of what my rules are all about. He says: "I like a lot of talk in a book and I don't like to have nobody tell me what the guy that's talking looks like. I want to figure out what he looks like from the way he talks."
 3. Never use a verb other than "said" to carry dialogue. The line of dialogue belongs to the character; the verb is the writer sticking his nose in. But "said" is far less intrusive than "grumbled", "gasped", "cautioned", "lied". I once noticed Mary McCarthy ending a line of dialogue with "she asseverated" and had to stop reading and go to the dictionary.
 4. Never use an adverb to modify the verb "said" . . . he admonished gravely. To use an adverb this way (or almost any way) is a mortal sin. The writer is now exposing himself in earnest, using a word that distracts and can interrupt the rhythm of the exchange. I have a character in one of my books tell how she used to write historical romances "full of rape and adverbs".
-5. Keep your exclamation points ­under control. You are allowed no more than two or three per 100,000 words of prose. If you have the knack of playing with exclaimers the way Tom Wolfe does, you can throw them in by the handful.
+5. Keep your exclamation points under control. You are allowed no more than two or three per 100,000 words of prose. If you have the knack of playing with exclaimers the way Tom Wolfe does, you can throw them in by the handful.
 6. Never use the words "suddenly" or "all hell broke loose". This rule doesn't require an explanation. I have noticed that writers who use "suddenly" tend to exercise less control in the application of exclamation points.
-7. Use regional dialect, patois, sparingly. Once you start spelling words in dialogue phonetically and loading the page with apostrophes, you won't be able to stop. Notice the way Annie Proulx captures the flavour of Wyoming voices in her book of short stories Close Range.
+7. Use regional dialect, patois, sparingly. Once you start spelling words in dialogue phonetically and loading the page with apostrophes, you won't be able to stop. Notice the way Annie Proulx captures the flavour of Wyoming voices in her book of short stories *Close Range*.
 8. Avoid detailed descriptions of characters, which Steinbeck covered. In Ernest Hemingway's "Hills Like White Elephants", what do the "American and the girl with him" look like? "She had taken off her hat and put it on the table." That's the only reference to a physical description in the story.
 9. Don't go into great detail describing places and things, unless you're Margaret Atwood and can paint scenes with language. You don't want descriptions that bring the action, the flow of the story, to a standstill.
 10. Try to leave out the part that readers tend to skip. Think of what you skip reading a novel: thick paragraphs of prose you can see have too many words in them.
@@ -192,6 +192,36 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 * Be a sadist. No matter how sweet and innocent your leading characters, make awful things happen to them in order that the reader may see what they are made of.
 * Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
 * Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages.
+
+### Steven Pinker
+
+1. Reverse-engineer what you read. If it feels like good writing, what makes it good? If it’s awful, why?
+
+2. Prose is a window onto the world. Let your readers see what you are seeing by using visual, concrete language.
+
+3. Don’t go meta. Minimize concepts about concepts, like “approach, assumption, concept, condition, context, framework, issue, level, model, perspective, process, range, role, strategy, tendency,” and “variable.”
+
+4. Let verbs be verbs. “Appear,” not “make an appearance.”
+
+5. Beware of the Curse of Knowledge: when you know something, it’s hard to imagine what it’s like not to know it. Minimize acronyms & technical terms. Use “for example” liberally. Show a draft around, & prepare to learn that what’s obvious to you may not be obvious to anyone else
+
+6. Omit needless words (Will Strunk was right about this).
+
+7. Avoid clichés like the plague (thanks, William Safire).
+
+8. Old information at the beginning of the sentence, new information at the end.
+
+9. Save the heaviest for last: a complex phrase should go at the end of the sentence.
+
+10. Prose must cohere: readers must know how each sentence is related to the preceding one. If it’s not obvious, use “that is, for example, in general, on the other hand, nevertheless, as a result, because, nonetheless,” or “despite.”
+
+11. Revise several times with the single goal of improving the prose.
+
+12. Read it aloud.
+
+13. Find the best word, which is not always the fanciest word. Consult a dictionary with usage notes, and a thesaurus.
+
+From Steven Pinker's [*The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century Reprint Edition*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799/) (Penguin 2015).
 
 
 <!-- BEGIN COMMENT -->
