@@ -25,7 +25,7 @@ have crafted rules for great writing and storytelling.
 I've collected some of my favorites in a separate file, 
 [Tips_From_Writers](https://github.com/RichardDooling/Law_and_Literature/tree/master/Tips).
 
-And at bottom I've included some of my favorite 
+I've included some of my favorite 
 writing and storytelling resources, websites and books. 
 
 ## Class Discussions
@@ -38,7 +38,8 @@ we've discovered in class and in our readings.
 
 ### The Action-Idea
 
-As Michael Tierno wrote in [*Aristotle's Poetics for Screenwriters: Storytelling Secrets From the Greatest Mind in Western Civilization*][aristotle], 
+As Michael Tierno wrote in [*Aristotle's Poetics for Screenwriters: 
+Storytelling Secrets From the Greatest Mind in Western Civilization*][aristotle], 
 great storytellers create a single unified action as a "through line,"
 which becomes the story's subject. 
 Then a hero takes the lead in that action,
@@ -52,16 +53,16 @@ Or maybe the *wrong* character ended up leading the action?
 Consider the overall vision of the story? 
 Is it worthy of our time and attention?
 
-> A simple plot expressed as an ACTION-IDEA will galvanize your screenwriting, 
+> A simple plot expressed as an action-idea will galvanize your screenwriting, 
 > the way imagining your finished tree house 
 > will inspire you as you saw and chop wood.
 > It's been said that the "whole is greater than the sum of its parts."
 > Aristotle would agree, but he would remind us 
-> that “the whole is always in each of the parts.”
+> that "the whole is always in each of the parts."
 
 ### Who Is The Hero?
 
-From Aristotle to Joseph Campbell's [Hero With a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces), heroes DO things. 
+From Aristotle to Joseph Campbell's [Hero With a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces), heroes *do* things. 
 If the main character lolls around making droll or insightful observations about life, 
 she may be wise, amusing, or edifying, a teacher or the life of the party, 
 but she is not a hero. 
@@ -76,7 +77,7 @@ Real heroes make things happen.
 
 As we discovered, 
 Aristotle believed dramatists must depict 
-not merely life but the moral life of a hero.
+not merely life, but the moral life of a hero.
 A good story concerns the hero's moral conflict 
 that developed during the story's middle (second act).
 
