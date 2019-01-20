@@ -79,11 +79,11 @@ A writer/director and master of storytelling with a camera. *Some Like It Hot*, 
 
 1. The audience is fickle.
 2. Grab 'em by the throat and never let 'em go.
-3. Develop a clean line of action for your leading character. (Action-idea? rd)
+3. Develop a clean line of action for your leading character. 
 4. Know where you're going. (Definitely in screenplays, and probably also in short stories. In longer fiction the author has more room leave options open and "let things happen." rd) 
 5. The more subtle and elegant you are in hiding your plot points, the better you are as a writer.
 6. If you have a problem with the third act, the real problem is in the first act.
-7. A tip from [Lubitsch:](https://en.wikipedia.org/wiki/Ernst_Lubitsch#Sound_films.2C_1928.E2.80.9340): Let the audience add up two plus two. They'll love you forever.
+7. A tip from [Lubitsch](https://en.wikipedia.org/wiki/Ernst_Lubitsch#Sound_films.2C_1928.E2.80.9340): Let the audience add up two plus two. They'll love you forever.
 8. In doing voice-overs, be careful not to describe what the audience already sees. Add to what they're seeing.
 9. The event that occurs at the second act curtain triggers the end of the movie.
 10. The third act must build, build, build in tempo and action until the last event, and then---that's it. Don't hang around.
