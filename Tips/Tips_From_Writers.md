@@ -97,6 +97,8 @@ From Cameron Crowe's [Conversations With Billy Wilder Advice For Screenwriters](
 
 Another famous [Billy Wilder interview with James Linville in The Paris Review: The Art of Screenwriting No. 1](http://www.theparisreview.org/interviews/1432/the-art-of-screenwriting-no-1-billy-wilder).
 
+
+
 ### Zadie Smith's Rules of Writing
 
 [Zadie Smith's 10 Rules of Writing](https://www.brainpickings.org/2012/09/19/zadie-smith-10-rules-of-writing/).
@@ -223,6 +225,9 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 
 From Steven Pinker's [*The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century Reprint Edition*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799/) (Penguin 2015).
 
+### 3 Act Story Structure
+
+![Three Act Story Structure](https://d2ybmm5cpznb3i.cloudfront.net/wp-content/uploads/2018/06/header-1-1.jpg)
 
 <!-- BEGIN COMMENT -->
 

@@ -25,15 +25,17 @@ Each folder contains three files, all named after the folder:
 * one Word file (.docx)
 * one PDF file (.pdf)
 
-All files contain the same content, just in different formats. For example, the [Intro folder](https://github.com/RichardDooling/Law_and_Literature/tree/master/Intro) contains three files:
+All files contain the same content, just in different formats. 
+For example, the [Intro folder](https://github.com/RichardDooling/Law_and_Literature/tree/master/Intro) contains three files:
 
 * Law_and_Storytelling_Intro.md
 * Law_and_Storytelling_Intro.docx
 * Law_and_Storytelling_Intro.pdf
 
-If you click on the Markdown file (Law_and_Storytelling_intro.md) you can view it as you would a web page. 
+If you click on the Markdown file (Law_and_Storytelling_Intro.md) you can view it as you would a web page. 
 
-If you click on the Chapter_1.docx or Chapter_1.pdf, you can't view the files, but you can download them if you click on the button that says "Raw." (Clicking on "View Raw" gives an error.)
+If you click on the Law_and_Storytelling_Intro.docx or Law_and_Storytelling.pdf, 
+you can't view the files, but you can download them by clicking the "Download" button. 
 
 ### Download Zip
 
