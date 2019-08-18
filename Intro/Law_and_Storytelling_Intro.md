@@ -85,7 +85,7 @@ like rhyme, rhythm, plot, character, theme, conflict, structural narrative and a
 
 Go to Google Scholar and [search the case law for "Scylla and Charybdis"][scylla]
 and sample the over 1,400 cases, most federal, which contain the expression.
-"between [Scylla and Charybdis](http://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis)." This is a fancy, literary way of saying "between a rock and a hard place," or "between the Devil and the deep blue sea," or "the horns of a dilemma," or even a [Catch-22](https://en.wikipedia.org/wiki/Catch-22_(logic)), after Joseph Heller's satirical novel about fighter bombers in World War II. 
+"between [Scylla and Charybdis](http://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis)." This is a fancy, literary way of saying "between the Devil and the deep blue sea," or "the horns of a dilemma," or even a [Catch-22](https://en.wikipedia.org/wiki/Catch-22_(logic)), after Joseph Heller's satirical novel about fighter bombers in World War II. 
 
 Scylla and Charybdis were mythical sea monsters in Homer's epic [Odyssey](https://en.wikipedia.org/wiki/Odyssey). Scylla was a rock shoal (described as a six-headed sea monster) on the Italian side of the strait, and Charybdis was a whirlpool off the coast of Sicily. They were dangerous threats to sailors who had to navigate between them. Avoiding Scylla meant passing too close to Charybdis. Just one example of judicial storytelling employing literary allusion.
 
@@ -93,7 +93,17 @@ Of course, any good storyteller
 must be sensitive to his audience and to context.
 Alluding to Scylla and Charybdis would be well-received at oral arguments 
 before the United States Supreme Court,
-maybe not so much before the Custer County Court in Broken Bow, Nebraska.
+maybe not so much before the Custer County Court in Broken Bow, Nebraska, 
+where a lawyer might fare better with "between a rock and a hard place." 
+Even better than that clich&eacute;, the lawyer should spend some time 
+with his sentences and craft a fresh compelling image, 
+the way Joseph Heller did when he came up with "Catch-22" 
+to describe a logical fallacy where one has only an insane illusory choice, 
+for example, the show-business Catch-22: No work unless you have an agent, 
+no agent unless you've worked.
+
+<!-- to describe endless dangerous bombing missions in World War II. -->
+<!-- where the imagery would be less erudite but probably more compelling. -->
 
 ### Not Just Trial Lawyers
 
@@ -180,7 +190,7 @@ especially how literary techniques accentuate fine legal storytelling.
 Many law schools offer a Law and Literature course.
 Most of them contain a collection of the predictable works
 that Judge Richard A. Posner complained about in his book [*Law and Literature: A Mistaken Relation*](http://www.amazon.com/Law-Literature-Richard-A-Posner/dp/0674032462).
-Even our own Roscoe Pound edited a well-regarded anthology called *Law in Action: An Anthology of the Law in Literature* (New York:Crown, 1947)
+Even our own Roscoe Pound edited a well-regarded anthology called *Law in Action: An Anthology of the Law in Literature* (New York: Crown, 1947)
 
 What might be called a clich&eacute; Law and Literature reading list 
 would include works like Shakespeare's *The Merchant of Venice*, Camus' *The Stranger* or *The Fall*, Frank Kafka's *The Trial*, excerpts from Dostoevsky's *Crime and Punishment*, a rereading of *To Kill A Mockingbird*, Truman Capote's *In Cold Blood* and so on.
@@ -210,15 +220,17 @@ when representing clients by writing and telling stories.
 I might make the argument that every case is a story, 
 and every story is a case 
 (protagonist, antagonist, being compared to plaintiff and defendant, or vice versa). 
-Or we might ask: how does The Declaration of Independence work as a piece of literature? 
+Or we might ask: How does The Declaration of Independence work as a piece of literature? 
 What rhetorical gimmicks does it employ to make its case? 
 What literary techniques does it use to persuade, 
-not just Tories and colonists, but us?
+not just Tories and Colonists, but us?
 Indeed how does it persuade *the ages* 
 and the future generations it was clearly addressing?
 
 Law *as* literature scholars critique and analyze legal writing as a form of literature. 
-They ask, what tools and techniques do legal writers use that are just like the tools and techniques used by literary authors? Certainly imagery, rhyme, and the "sound" of sentences all play a part.
+They ask, what tools and techniques do legal writers use 
+that are just like the tools and techniques used by literary authors? 
+Certainly imagery, rhyme, and the "sound" of sentences all play a part.
 
 ## Slow Reading
 
