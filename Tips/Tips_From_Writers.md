@@ -198,29 +198,17 @@ From [Elmore Leonard's rules for writers](http://www.theguardian.com/books/2010/
 ### Steven Pinker
 
 1. Reverse-engineer what you read. If it feels like good writing, what makes it good? If it’s awful, why?
-
 2. Prose is a window onto the world. Let your readers see what you are seeing by using visual, concrete language.
-
 3. Don’t go meta. Minimize concepts about concepts, like “approach, assumption, concept, condition, context, framework, issue, level, model, perspective, process, range, role, strategy, tendency,” and “variable.”
-
 4. Let verbs be verbs. “Appear,” not “make an appearance.”
-
 5. Beware of the Curse of Knowledge: when you know something, it’s hard to imagine what it’s like not to know it. Minimize acronyms & technical terms. Use “for example” liberally. Show a draft around, & prepare to learn that what’s obvious to you may not be obvious to anyone else
-
 6. Omit needless words (Will Strunk was right about this).
-
 7. Avoid clichés like the plague (thanks, William Safire).
-
 8. Old information at the beginning of the sentence, new information at the end.
-
 9. Save the heaviest for last: a complex phrase should go at the end of the sentence.
-
 10. Prose must cohere: readers must know how each sentence is related to the preceding one. If it’s not obvious, use “that is, for example, in general, on the other hand, nevertheless, as a result, because, nonetheless,” or “despite.”
-
 11. Revise several times with the single goal of improving the prose.
-
 12. Read it aloud.
-
 13. Find the best word, which is not always the fanciest word. Consult a dictionary with usage notes, and a thesaurus.
 
 From Steven Pinker's [*The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century Reprint Edition*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799/) (Penguin 2015).
