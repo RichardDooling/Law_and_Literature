@@ -2,7 +2,7 @@
 author: Richard Dooling
 title: Law & Storytelling
 subtitle: Introduction
-date: 01-Jan-2018 
+date: 09-Aug-2020 
 ---
 
 # Introduction
@@ -13,7 +13,8 @@ they succeed in many other walks of life,
 including law and medicine and lives of crime.
 Why? Because storytelling is a useful art, 
 useful to Supreme Court lawyers and justices, con artists, 
-sellers of insurance and oncologists alike. 
+sellers of insurance, parents reading children to sleep, 
+and oncologists helping patients come to terms with their lives. 
 
 ## Law and Storytelling
 
@@ -118,7 +119,7 @@ for the tone of an erudite after dinner conversation,
 a story, if you will, about the law as applied to their client, 
 and why their client's version of the story should prevail.
 
-Lawyer/authors, like John Grisham, Lisa Scottoline, Scott Turow, and Linda Fairstein, to name only a few, are so common that I used to joke that it should be a separate occupation on Schedule C of our Income Tax return. Why? Storytelling comes naturally to good lawyers, and many of them try to turn their lawyerly storytelling skills to writing fiction or great essays (see, e.g., [Jeffrey Toobin](https://en.wikipedia.org/wiki/Jeffrey_Toobin)). 
+Lawyer/authors, like John Grisham, Lisa Scottoline, Scott Turow, Linda Fairstein, and Michael Connelly to name only a few, are so common that I used to joke that it should be a separate occupation on Schedule C of our Income Tax return. Why? Storytelling comes naturally to good lawyers, and many of them try to turn their lawyerly storytelling skills to writing fiction or great essays (see, e.g., [Jeffrey Toobin](https://en.wikipedia.org/wiki/Jeffrey_Toobin)). 
 
 Lawyers aren't the only tale-telling profession. 
 Doctors also use narrative, 
@@ -245,6 +246,10 @@ I read stories and novels at a much slower pace than, say, a Supreme Court opini
 A novel needs to capture me completely, or I've got other things to read. 
 Take a look at Jeanne Whale's article in the [*Wall Street Journal: Read Slowly to Benefit Your Brain and Cut Stress*](http://online.wsj.com/articles/read-slowly-to-benefit-your-brain-and-cut-stress-1410823086). (If the paywall gets in the way, I'll send to you via WSJ). I took the speed reading test. I came out "average" but I also missed a question. I also learned a new term for what I do when I read good stuff. I sub vocalize.
 
+> Slow reading advocates seek a return to the focused reading habits of years gone by, before Google, smartphones and social media started fracturing our time and attention spans. Many of its advocates say they embraced the concept after realizing they couldn't make it through a book anymore.
+
+> *Read Slowly to Benefit Your Brain and Cut Stress*, by Jeanne Whalen, WSJ, 16 September 2014.
+
 ### Justice Roberts and Slow Reading
 
 Some years ago, when Justice Roberts visited us at the Law College,
@@ -304,6 +309,7 @@ because it's tough to fit all that reading into a law school education.
 Better are shorter, compelling, streamlined stories, with strong heroes.
 
 RD
+
 
 <!-- 
 ## Law & Literature
