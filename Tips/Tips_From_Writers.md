@@ -215,6 +215,22 @@ From Steven Pinker's [*The Sense of Style: The Thinking Person's Guide to Writin
 
 ### 3 Act Story Structure
 
+People disagree about where the climax falls in the typical three-act story structure. Some say it's just before the start of the third act, and some say just after. Either way, the story often follows a familiar pattern. 
+
+For me, I think about adjusting structure *after* I have a draft, 
+and my drafts look pretty good, because I'm a compulsive rewriter. 
+
+Others do just as well or better by planning the entire structure scene by scene before doing much writing. Certainly the writers' rooms in most TV series work this way. 
+
+Novelists who storyboard or outline before doing any writing 
+often describe the actual writing as being the easy part, because they are just filling in the figures in a coloring book, 
+a book that already tells a story, 
+because the author thought so long and hard about structure before beginning.
+
+Many successful authors use one or both methods, 
+and those who favor outlining do just as well as those who don't. 
+Each author discovers what works best by trial and error.
+
 ![Three Act Story Structure](https://d2ybmm5cpznb3i.cloudfront.net/wp-content/uploads/2018/06/header-1-1.jpg)
 
 <!-- BEGIN COMMENT -->
